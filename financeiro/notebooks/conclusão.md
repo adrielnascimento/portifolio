@@ -9,8 +9,9 @@ Unindo a **flexibilidade do Python (para tratamento estatístico e visualizaçõ
 ## 📁 Sobre os Dados
 
 - **Base:** Dados financeiros com transações de **pagamentos** e **recebimentos** por município, loja, forma de pagamento e data.  
-- **Total de transações:** `X.XXX`  
-- **Período analisado:** `XX/XX/XXXX` até `XX/XX/XXXX`  
+- **Total de transações:** 'R$49.739.026,02' 
+- **Período analisado:** `02/01/2020` até `28/12/2021`
+- 
 - **Colunas principais:**
   - `data da movimentação`
   - `tipo` (Pagamento ou Recebimento)
@@ -125,13 +126,4 @@ Este projeto me ajudou a:
 - Praticar a escrita analítica para stakeholders
 
 ---
-
-## 🚀 Próximos Passos
-
-- Finalizar e publicar o **dashboard no Power BI**
-- Compartilhar insights em um artigo no **Medium**
-- Iniciar um novo projeto com base maior e mais robusta (big data)
-
----
-
-✅ Projeto em andamento. Feedbacks são bem-vindos!
+rojeto em andamento. Feedbacks são bem-vindos!
