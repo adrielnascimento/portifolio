@@ -14,7 +14,7 @@ Investigar os principais fatores que impactam a performance financeira de uma em
 
 - **Python** (pandas, matplotlib, seaborn)
 - **Power BI** para visualizações e dashboards
-- **Google colab** para a analise explóratoria 
+- **Jupyter notebook** para a analise explóratoria 
 - **Excel** (apoio em validação de dados)
 
 ---
