@@ -81,5 +81,7 @@ Responder perguntas estratégicas como:
 
 ## conclusões tirada da análise  
 - São Paulo demonstrou um desempenho notável em comparação aos demais municípios, com alto volume de recebimentos e baixos níveis de saída, evidenciando eficiência financeira nas operações da região. Além disso, embora concentre um número levemente superior de lojas, essa diferença não é expressiva o suficiente para justificar, por si só, a superioridade nos resultados o que reforça a efetividade operacional das unidades presentes no município.
+![Gráfico retratando o desempenho de São Paulo](financeiro/imagens/grafico1.png)
+  -essa analise levantou a seguinte questão, qual loja que esta gerando os maiores valores de entrada pra São Paulo?
+  -A análise dos recebimentos por loja em São Paulo revela que a unidade "Nova Olinda B" é a principal responsável pelos valores de entrada na região. Ela registrou um total expressivo de R$121.129.777,06, destacando-se significativamente em relação às demais lojas.
 
-![Gráfico retratando o desempenho de são paulo][financeiro/imagens/gráfico 1.png]
