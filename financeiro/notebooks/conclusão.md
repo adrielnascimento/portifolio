@@ -1,8 +1,8 @@
-# 💰 Análise Financeira Estratégica com Python e Power BI
+# 💰 Análise Financeira Estratégica 
 
 Este projeto tem como objetivo explorar dados de movimentações financeiras (recebimentos e pagamentos) para identificar **padrões críticos**, **tendências temporais**, **comportamentos regionais**, e **oportunidades de otimização do fluxo de caixa**.
 
-Unindo a **flexibilidade do Python (para tratamento estatístico e visualizações avançadas)** com a **acessibilidade do Excel** e a **clareza do Power BI para dashboards executivos**, entregamos uma análise completa, estruturada e de valor estratégico.
+Unindo a **flexibilidade do Python (para tratamento estatístico e visualizações avançadas)** com a **acessibilidade do Excel** e a **clareza do Power BI para dashboards executivos**, entregamos uma análise completa, estruturada e de valor estratégico, os dados utilizados para a analálise foram retirados do kaglle.
 
 ---
 
@@ -13,12 +13,12 @@ Unindo a **flexibilidade do Python (para tratamento estatístico e visualizaçõ
 - **Período analisado:** `02/01/2020` até `28/12/2021`
 - 
 - **Colunas principais:**
-  - `data da movimentação`
-  - `tipo` (Pagamento ou Recebimento)
-  - `valor da movimentação`
-  - `município`
-  - `forma pagamento`
-  - `nome` (Loja)
+  - `data da movimentação`: data em que foi realizada as movimentações.
+  - `tipo`: Coluna mostra que tipo de movimentação foi feita, se ela foi Recebimento ou Pagamento.
+  - `valor da movimentação`: Mostra qual valor foi o Pagamanto ou o Recebimento.
+  - `município`: Mostra os municípios onde esta localizado cada loja.
+  - `forma pagamento`: que forma de pagamento foi utilizada
+  - `nome`:Informa os nomes das
 
 ---
 
@@ -79,51 +79,7 @@ Responder perguntas estratégicas como:
 
 ---
 
-## 📈 Visualizações Criadas
+## conclusões tirada da análise  
+- São Paulo demonstrou um desempenho notável em comparação aos demais municípios, com alto volume de recebimentos e baixos níveis de saída, evidenciando eficiência financeira nas operações da região. Além disso, embora concentre um número levemente superior de lojas, essa diferença não é expressiva o suficiente para justificar, por si só, a superioridade nos resultados o que reforça a efetividade operacional das unidades presentes no município.
 
-- Gráfico de barras por tipo de movimentação
-- Top 10 municípios por valor total de recebimentos
-- Boxplot por tipo de movimentação
-- Linhas temporais com evolução mensal
-- Barras com frequência e valor por forma de pagamento
-- Evolução temporal por tipo de pagamento (ex: Pix, Cartão, Boleto)
-
----
-
-## 📊 Dashboard no Power BI
-
-> **Em desenvolvimento.**  
-O dashboard incluirá:
-
-- Resumo financeiro geral
-- Análise temporal comparativa
-- Preferências de meios de pagamento
-- Mapa por município
-- Lojas com movimentações anormais
-
----
-
-## 📌 Conclusão Executiva
-
-- **São Paulo** se destaca positivamente com **alta receita e baixo custo**
-- **Belo Horizonte** tem alto volume de saída e merece atenção
-- **PIX e Cartão** dominam as transações, com alta aceitação
-- Nubank e Itaú concentram a maior parte das movimentações
-- Algumas cidades com muitas lojas têm desempenho abaixo do esperado
-- Há outliers financeiros relevantes que exigem investigação
-
----
-
-## 🧠 Aprendizados
-
-Este projeto me ajudou a:
-
-- Consolidar o uso de `pandas`, `seaborn` e `matplotlib`
-- Aplicar conceitos de **estatística descritiva**
-- Trabalhar com **séries temporais**
-- Estruturar análises financeiras com lógica de negócio
-- Criar **visuais estratégicos** para facilitar a tomada de decisão
-- Praticar a escrita analítica para stakeholders
-
----
-rojeto em andamento. Feedbacks são bem-vindos!
+![Gráfico retratando o desempenho de são paulo][financeiro/imagens/gráfico 1.png]
