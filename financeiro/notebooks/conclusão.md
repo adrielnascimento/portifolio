@@ -80,8 +80,171 @@ Responder perguntas estratégicas como:
 ---
 
 ## conclusões tirada da análise  
-- São Paulo demonstrou um desempenho notável em comparação aos demais municípios, com alto volume de recebimentos e baixos níveis de saída, evidenciando eficiência financeira nas operações da região. Além disso, embora concentre um número levemente superior de lojas, essa diferença não é expressiva o suficiente para justificar, por si só, a superioridade nos resultados o que reforça a efetividade operacional das unidades presentes no município.
-![Gráfico retratando o desempenho de São Paulo](financeiro/imagens/grafico1.png)
-  -essa analise levantou a seguinte questão, qual loja que esta gerando os maiores valores de entrada pra São Paulo?
-  -A análise dos recebimentos por loja em São Paulo revela que a unidade "Nova Olinda B" é a principal responsável pelos valores de entrada na região. Ela registrou um total expressivo de R$121.129.777,06, destacando-se significativamente em relação às demais lojas.
+## 
+## 📍 Análise: Quais municípios concentram os maiores valores de movimentações?
+
+### 📌 Dados observados:
+- **São Paulo** lidera em **recebimentos**, com **29%** do total da receita da empresa.
+- Possui apenas **13%** dos **pagamentos**, mesmo concentrando **27%** das lojas.
+
+### 🔎 Interpretação:
+Essa diferença entre entrada e saída indica uma **eficiência financeira acima da média**. São Paulo demonstra ser o município mais **rentável**, equilibrando bem operação e resultado.
+
+### ✅ Recomendações:
+- Utilizar São Paulo como **referência operacional**.
+- Considerar o município como prioridade em decisões de **expansão ou investimento futuro**.
+
+---
+## Como o volume financeiro evolui ao longo do tempo?
+## 📍 Análise: Evolução do volume financeiro em 2020
+
+### 📌 Dados observados:
+- Crescimento nos recebimentos de **janeiro a março**, especialmente no **Rio de Janeiro**, que manteve alta até abril.
+- **Vitória** e **Belo Horizonte** tiveram picos isolados em apenas **um mês**.
+- Após **junho**, os valores caíram e se mantiveram **instáveis** até o fim do ano.
+- **São Paulo** foi o único município a manter **picos recorrentes** durante o ano.
+
+### 🔎 Interpretação:
+A **performance nacional em 2020** foi impulsionada principalmente por São Paulo e Rio de Janeiro. A instabilidade no segundo semestre sugere necessidade de monitoramento de sazonalidades.
+
+### ✅ Recomendações:
+- **Investir em estratégias comerciais** para os meses mais fracos.
+- Estudar os motivos da **queda pós-junho** e desenvolver **ações preventivas** para períodos semelhantes em anos futuros.
+
+---
+
+## 📍 Análise: Comparativo entre 2020 e 2021
+
+### 📌 Dados observados:
+- **2021** teve performance inferior a 2020.
+- Apenas um pico significativo em **setembro (R$13 milhões)**.
+- Receitas totais: **R$53 milhões em 2020** vs **R$41 milhões em 2021** (queda de **22%**).
+
+### 🔎 Interpretação:
+A empresa perdeu força em 2021, com menos variação positiva e volume financeiro menor. Isso pode indicar retração do mercado ou necessidade de ajustes operacionais.
+
+### ✅ Recomendações:
+- Analisar o contexto de mercado em 2021.
+- Avaliar **ações de marketing ou operacionais** que possam ter impactado negativamente.
+- Criar estratégias para **recuperar o crescimento observado em 2020**.
+
+---
+
+## 📍 Análise: Formas de pagamento mais utilizadas
+
+### 📌 Dados observados:
+- Nos **recebimentos**, o **PIX** representa **50%**, seguido por **cartão (22%)**.
+- Nos **pagamentos**, o **cartão lidera com 48%**, seguido por **PIX (40%)**.
+
+### 🔎 Interpretação:
+O PIX é a principal escolha dos clientes na hora de pagar, indicando preferência por **transações rápidas e de baixo custo**.
+
+### ✅ Recomendações:
+- **Otimizar os canais de recebimento via PIX**, garantindo agilidade e estabilidade.
+- **Explorar promoções para pagamentos à vista**, reforçando esse comportamento.
+- **Monitorar tendências** de preferência dos clientes para adaptar a estratégia de cobrança e pagamento.
+
+## 🔍 Dado Observado: Outliers em Recebimentos e Pagamentos
+
+Durante a análise dos dados financeiros, foram identificados **outliers significativos** tanto nas entradas (recebimentos) quanto nas saídas (pagamentos).
+
+- **Recebimentos**: observou-se que existem transações que se aproximam de **R$6 milhões**, enquanto o **terceiro quartil (Q3)** está abaixo de **R$1 milhão**, evidenciando uma alta dispersão nos valores.
+- **Pagamentos**: há registros que chegam próximos de **R$9 milhões**, sendo que a maior parte dos outliers está na faixa de **R$3 milhões**, também acima do Q3 (em torno de R$1 milhão).
+
+### 📈 Interpretação
+
+Esses valores destoam significativamente do padrão da maioria das movimentações. Eles podem estar relacionados a **lojas com transações atípicas**, seja por porte diferenciado, localização estratégica ou sazonalidade.
+
+- No caso dos **pagamentos**, valores tão elevados podem indicar **endividamentos expressivos**, **investimentos de grande porte** ou **compromissos operacionais pontuais**.
+- Já nos **recebimentos**, essas movimentações extremas podem estar associadas a **clientes corporativos**, **grandes campanhas promocionais** ou **transações com alto valor agregado**.
+
+> ⚠️ A falta de informações detalhadas sobre a natureza de cada transação impede uma análise totalmente conclusiva. No entanto, a diferença em relação ao comportamento médio é evidente e merece atenção.
+
+### 🎯 Recomendação
+
+É altamente recomendado investigar mais profundamente a **origem dessas movimentações**, a fim de compreender se elas representam:
+
+- **Riscos financeiros** (como dívidas elevadas ou desequilíbrios operacionais)
+- Ou **oportunidades comerciais** (grandes receitas, contratos vantajosos)
+
+**Sugestões práticas**:
+
+- Revisar contratos e transações específicas associadas às lojas envolvidas
+- Avaliar se os pagamentos altos são eventos pontuais ou recorrentes
+- Considerar a segmentação dos dados por tipo de operação (investimento, despesa, pagamento de fornecedores, etc)
+
+---
+
+## 📍 Análise por Município: Lojas vs Volume Financeiro
+
+### 🧾 Dados Observados
+
+- A quantidade de lojas por cidade é **relativamente equilibrada**, com **São Paulo** possuindo **27%** das unidades.
+- O volume de **recebimentos** segue um padrão semelhante, com São Paulo acumulando **29%** do total.
+- Já os **pagamentos** apresentam uma **discrepância significativa**:
+  - **Belo Horizonte**: 34%
+  - **Vitória** e **Rio de Janeiro**: ~26% cada
+  - **São Paulo**: apenas 13%
+
+### 💡 Interpretação
+
+Apesar de ter um número levemente maior de lojas, São Paulo gera a **maior parte das receitas** com a **menor parte dos pagamentos**, destacando-se como uma **cidade altamente rentável**.
+
+> ✅ Este comportamento indica que São Paulo é um modelo de **eficiência operacional**, podendo servir como benchmark para as demais localidades.
+
+### ✅ Recomendações
+
+- **Explorar novos mercados** com perfil semelhante ao de São Paulo
+- **Investigar a operação em Belo Horizonte**, que apresenta altos pagamentos
+- **Avaliar a performance individual das lojas** nas cidades com maior volume de despesas
+
+---
+
+## 🏦 Bancos Mais Utilizados em Transações
+
+### 📑 Dados Observados
+
+- **Recebimentos**: 61% realizados via **Itaú e Nubank**
+- **Pagamentos**: 80% realizados por essas mesmas instituições
+
+### 🔍 Interpretação
+
+A predominância de Itaú e Nubank indica:
+
+- Padronização operacional com foco em **eficiência e controle**
+- Preferência de clientes e fornecedores por esses bancos
+- Bons relacionamentos institucionais que podem gerar vantagens
+
+### ✅ Recomendações
+
+- **Negociar condições comerciais** com os bancos mais usados
+- **Manter opções alternativas** para mitigar riscos operacionais
+- **Investigar a experiência do cliente** com essas instituições para otimizar os meios de pagamento
+
+---
+
+## 🏪 Lojas com Movimentações Financeiras Anormais
+
+### 📑 Dados Observados
+
+**Recebimentos muito acima da média**:
+- Nova Olinda B: R$ 12.129.777,06
+- Indaia: R$ 8.123.600,57
+- Elkem Carboderivados: R$ 7.053.013,70
+
+**Pagamentos elevados**:
+- Notaro Paulista: R$ 8.667.090,74 (acima da média de R$1M–R$3M)
+
+### 🔍 Interpretação
+
+- **Nova Olinda B** é uma unidade extremamente lucrativa
+- **Notaro Paulista** apresenta gastos atípicos, podendo indicar investimentos, endividamentos ou desequilíbrios
+
+### ✅ Recomendações
+
+- Monitorar o desempenho de lojas como Nova Olinda B
+- Investigar a fundo os pagamentos da Notaro Paulista
+- Identificar se os gastos são estratégicos ou representam ineficiências
+
+---
 
