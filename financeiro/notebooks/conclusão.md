@@ -18,7 +18,7 @@ Unindo a **flexibilidade do Python (para tratamento estatístico e visualizaçõ
   - `valor da movimentação`: Mostra qual valor foi o Pagamanto ou o Recebimento.
   - `município`: Mostra os municípios onde esta localizado cada loja.
   - `forma pagamento`: que forma de pagamento foi utilizada
-  - `nome`:Informa os nomes das
+  - `nome`:Informa os nomes das lojas
 
 ---
 
