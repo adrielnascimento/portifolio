@@ -116,29 +116,26 @@ Responder perguntas estratégicas e gerar recomendações com base em evidência
 ### Quais bairros têm mais restaurantes?
 
 **📊 Dados:**  
-- Byresandra, Tavarekere, Madiwala: 798 restaurantes (11%)  
-- Bannerghatta Road: 552 restaurantes (7%)
+Entre os 30 bairros analisados, Byresandra, Tavarekere e Madiwala se destacam com 798 restaurantes — o que representa 11% do total (7.105). Logo em seguida, vem Bannerghatta Road, com 552 restaurantes (7%).
 
 **🔍 Interpretação:**  
-A distribuição é relativamente equilibrada, mas há bairros com presença mínima de restaurantes.
+A distribuição de restaurantes pelos bairros é relativamente equilibrada, ou seja, não existe uma concentração absurda em poucas regiões. Isso mostra uma boa dispersão da oferta. Por outro lado, alguns bairros aparecem pouco representados.
 
 **💡 Recomendação:**  
-Explorar regiões pouco atendidas como Residency Road pode ser uma boa estratégia de expansão.
+Vale investigar por que locais como Residency Road, com apenas 18 restaurantes, têm tão pouca presença. Pode ser por estrutura limitada, baixa demanda ou outros fatores. Entender isso ajuda a traçar boas estratégias pra expansão em áreas que ainda estão “em branco” no mapa gastronômico.
 
 ---
 
 ### Quais os tipos de cozinha mais comuns?
 
 **📊 Dados:**  
-- North Indian, Chinese (421)  
-- North Indian (420)  
-- South Indian (348)
+Muitos restaurantes oferecem mais de um tipo de cozinha, mas alguns estilos lideram. As combinações North Indian, Chinese (421 restaurantes), North Indian (420) e South Indian (348) dominam, somando cerca de 60% do total.
 
 **🔍 Interpretação:**  
-A culinária indiana domina o cenário, refletindo o gosto local.
+A culinária indiana — do norte e do sul — é disparada a preferida. Isso reflete os hábitos locais e talvez uma demanda forte por esses sabores mais tradicionais.
 
 **💡 Recomendação:**  
-Apostar em estilos tradicionais pode ser seguro, mas investir em culinárias alternativas pode atrair nichos.
+Quem tá pensando em abrir um restaurante pode apostar nesses estilos pra atrair o público mais rápido. Mas também dá pra pensar fora da caixa: oferecer culinárias menos comuns (como japonesa, italiana, etc.) pode chamar atenção de nichos ainda pouco explorados e gerar diferencial.
 
 ---
 
@@ -150,67 +147,74 @@ Apostar em estilos tradicionais pode ser seguro, mas investir em culinárias alt
 - South Indian: 35.963 – média 3,4  
 
 **🔍 Interpretação:**  
-São os estilos mais populares e com desempenho estável nas avaliações.
+Esses três estilos de cozinha são os mais comentados e bem avaliados, o que mostra popularidade e presença de mercado. As notas giram entre 3,3 e 3,4, o que indica um nível de satisfação consistente, mas não espetacular.
 
 **💡 Recomendação:**  
-Apostar nessas culinárias, mas com foco em **melhorar qualidade e experiência**, pode elevar as notas.
+A demanda por essas culinárias é real, então vale manter ou incluir essas opções no cardápio. E como as notas ainda têm margem pra crescer, investir em atendimento, qualidade e experiência pode ser o diferencial pra sair da média e entrar no top da galera.
 
 ---
 
 ### Tipo de restaurante influencia na nota?
 
 **📊 Dados:**
-- Bares e pubs: médias próximas de **5**
-- Microcervejarias: média acima de **4**
+Bares e pubs são os campeões de nota, beirando os 5 pontos. Microcervejarias também mandam bem, geralmente com média acima de 4. Nenhum tipo de restaurante teve média abaixo de 3.
 
 **🔍 Interpretação:**  
-Ambiente e proposta têm impacto direto na avaliação.
+O público curte muito a experiência nesses tipos de lugar, o que sugere que ambiente e proposta contam bastante na hora de avaliar. A consistência nas notas mostra que a qualidade tá num nível bom no geral.
 
 **💡 Recomendação:**  
-Outros restaurantes podem aprender com o sucesso desses estabelecimentos para melhorar a experiência.
+Vale olhar mais de perto o que esses bares e pubs estão fazendo de certo — pode ser o ambiente, o atendimento, o cardápio... Entender isso pode ajudar outros tipos de restaurante a melhorarem a experiência do cliente e, de quebra, subirem nas avaliações.
 
 ---
 
 ### Como estão distribuídas as avaliações?
 
 **📊 Dados:**
-- 25% ≤ 3.2  
-- Mediana: 3.5  
-- 75% ≤ 3.8  
+O que os dados mostram:
+A maioria das avaliações vai de 3 a 4 pontos. Cerca de 25% dos restaurantes têm nota igual ou inferior a 3.2. A mediana é 3.5, e 75% das notas estão abaixo de 3.8.
 
+Inter
 **🔍 Interpretação:**  
-Notas são medianas para a maioria, mas há exceções nos extremos.
+O panorama geral é positivo — poucas notas muito baixas. Mas existem exceções, com avaliações bem ruins (abaixo de 2.5) e outras excelentes (acima de 4.5). Isso mostra uma certa variação na experiência dos clientes.
 
 **💡 Recomendação:**  
-Focar nos restaurantes com notas muito baixas e entender os motivos pode melhorar a imagem geral.
+É bom ficar de olho nos casos com notas muito baixas. Ver o que tá dando errado (atendimento? comida? ambiente?) pode ajudar a fazer ajustes pontuais e melhorar a percepção geral dos clientes.
 
 ---
 
 ### Quais restaurantes cobram mais caro?
 
 **📊 Dados:**
-- Le Cirque Signature – R$6.000  
-- Royal Afghan – R$5.000  
-- Malties – R$4.500  
+Os três restaurantes com os maiores valores médios para duas pessoas são:
+
+Le Cirque Signature – The Leela Palace: R$6.000 (French, Italian)
+
+Royal Afghan – ITC Windsor: R$5.000 (North Indian, Mughlai)
+
+Malties – Radisson Blu: R$4.500 (Continental, Fast Food)
+
+Enquanto isso, metade dos restaurantes cobra menos de R$400, e 75% cobram menos de R$600. Ou seja, esses três são claramente voltados pra um público mais exclusivo.
 
 **🔍 Interpretação:**  
-Estes são nichos premium. A expectativa dos clientes é alta.
+Eles são outliers, atuando em um nicho premium — e, por isso, a expectativa do cliente também sobe junto com a conta.
+
 
 **💡 Recomendação:**  
-É essencial entregar **experiência de alto padrão** para justificar os preços.
+Se cobram caro, têm que entregar uma experiência à altura. Investir em ambiente, atendimento, apresentação e divulgação voltada ao público de luxo é essencial. E claro: monitorar as avaliações pra garantir que o valor está sendo justificado.
 
 ---
 
 ### Cozinhas específicas se concentram em certos bairros?
 
 **📊 Dados:**  
-- Culinárias como North Indian estão presentes em vários bairros.
-
+ - Os tipos de cozinha mais comuns (North Indian, South Indian, North Indian + Chinese) aparecem na maioria dos bairros. Mas em alguns locais, um tipo específico domina com folga.
+   
 **🔍 Interpretação:**  
-Algumas regiões são dominadas por um estilo só, o que pode indicar falta de variedade.
+Isso pode ser reflexo de preferências locais ou até mesmo de falta de variedade nas opções.
+
 
 **💡 Recomendação:**  
-Apostar em **diversidade gastronômica em bairros mais homogêneos** pode ser uma vantagem estratégica.
+Pode ser uma boa oportunidade testar novos tipos de culinária em regiões onde há pouca diversidade. Além disso, cruzar dados de localização + avaliação pode ajudar a entender onde faz sentido apostar em novidades.
 
 ---
 
