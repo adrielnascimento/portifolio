@@ -124,6 +124,10 @@ A distribuição de restaurantes pelos bairros é relativamente equilibrada, ou 
 **💡 Recomendação:**  
 Vale investigar por que locais como Residency Road, com apenas 18 restaurantes, têm tão pouca presença. Pode ser por estrutura limitada, baixa demanda ou outros fatores. Entender isso ajuda a traçar boas estratégias pra expansão em áreas que ainda estão “em branco” no mapa gastronômico.
 
+## 📍 Bairros com mais restaurantes
+
+![Bairros com mais restaurantes](https://raw.githubusercontent.com/adrielnascimento/portifolio/main/projeto-restaurantes/notebooks/imagem/qdt_restaurantes_bairro.png)
+
 
 ---
 
