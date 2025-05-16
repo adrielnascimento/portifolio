@@ -229,6 +229,8 @@ Isso pode ser reflexo de preferências locais ou até mesmo de falta de variedad
 **💡 Recomendação:**  
 Pode ser uma boa oportunidade testar novos tipos de culinária em regiões onde há pouca diversidade. Além disso, cruzar dados de localização + avaliação pode ajudar a entender onde faz sentido apostar em novidades.
 
+![Distribuição das avalições](https://raw.githubusercontent.com/adrielnascimento/portifolio/main/projeto-restaurantes/notebooks/imagem/tipos_res_bairro.png)
+
 ---
 
 ## 📎 Conclusão
