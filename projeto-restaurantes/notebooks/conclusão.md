@@ -233,9 +233,17 @@ Pode ser uma boa oportunidade testar novos tipos de culinária em regiões onde 
 
 ---
 
-## 📎 Conclusão
+## Conclusão
 
-Esse projeto mostra como uma análise de dados bem feita pode trazer insights práticos e aplicáveis para o mercado de alimentação. A partir da base da Zomato, conseguimos mapear padrões de consumo, avaliar preferências regionais e sugerir estratégias reais para restaurantes se destacarem.
+Ao final das análises realizadas com base nos dados de restaurantes, foi possível extrair uma série de insights relevantes que ajudam a compreender melhor o cenário gastronômico da região analisada. Utilizando ferramentas como Python, Pandas e visualizações com Matplotlib/Seaborn, conseguimos não apenas manipular os dados de forma eficiente, mas também transformar informações brutas em conhecimento aplicável.
+
+Uma das principais descobertas foi a **concentração significativa de restaurantes em determinados bairros**, o que pode indicar polos gastronômicos estratégicos e atrativos tanto para novos negócios quanto para políticas públicas de infraestrutura urbana. Além disso, ao observar o tipo de cozinha mais presente e o nível médio de avaliações por categoria, conseguimos levantar hipóteses sobre **preferências do público, qualidade percebida e saturação de mercado** em alguns segmentos.
+
+As análises também revelaram padrões interessantes nas avaliações dos clientes. Foi possível identificar quais categorias de restaurantes apresentam **maior nível de satisfação**, bem como aquelas que, apesar de populares, ainda enfrentam desafios em termos de qualidade percebida. Esses dados podem ser valiosos para gestores de restaurantes e empreendedores que desejam atuar no setor alimentício, servindo como base para decisões estratégicas mais seguras e embasadas.
+
+Outro ponto importante foi a exploração da **distribuição de preços e sua relação com as notas de avaliação**, mostrando que nem sempre o preço mais elevado está associado à melhor reputação. Isso reforça a importância da experiência do cliente como fator determinante no sucesso de um estabelecimento.
+
+Em resumo, este projeto demonstrou o potencial da análise de dados para gerar valor em setores diversos, neste caso específico, no ramo da alimentação. Através de uma abordagem exploratória e visual, foi possível extrair informações que poderiam passar despercebidas em uma leitura superficial dos dados. Esta análise não apenas enriquece o portfólio com um caso prático de aplicação de técnicas de data analysis, como também reforça a importância do uso de dados como suporte para decisões mais inteligentes e sustentáveis.
 
 ---
 
@@ -257,3 +265,6 @@ Esse projeto mostra como uma análise de dados bem feita pode trazer insights pr
 - VS Code
 
 ---
+**> 🔍 Para mais detalhes, consulte os notebooks disponíveis neste repositório. Todas as análises, códigos e gráficos utilizados estão documentados de forma transparente e replicável.**
+
+
