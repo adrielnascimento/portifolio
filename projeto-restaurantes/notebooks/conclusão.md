@@ -111,7 +111,7 @@ Responder perguntas estratégicas e gerar recomendações com base em evidência
 
 ---
 
-## 📍 Conclusões e Recomendações
+# 📍 Conclusões e Recomendações
 
 ### Quais bairros têm mais restaurantes?
 
@@ -123,6 +123,7 @@ A distribuição de restaurantes pelos bairros é relativamente equilibrada, ou 
 
 **💡 Recomendação:**  
 Vale investigar por que locais como Residency Road, com apenas 18 restaurantes, têm tão pouca presença. Pode ser por estrutura limitada, baixa demanda ou outros fatores. Entender isso ajuda a traçar boas estratégias pra expansão em áreas que ainda estão “em branco” no mapa gastronômico.
+
 
 ---
 
