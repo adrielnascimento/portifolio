@@ -142,6 +142,7 @@ A culinária indiana — do norte e do sul — é disparada a preferida. Isso re
 **💡 Recomendação:**  
 Quem tá pensando em abrir um restaurante pode apostar nesses estilos pra atrair o público mais rápido. Mas também dá pra pensar fora da caixa: oferecer culinárias menos comuns (como japonesa, italiana, etc.) pode chamar atenção de nichos ainda pouco explorados e gerar diferencial.
 
+
 ---
 
 ### Quais os tipos de cozinha com mais avaliações (e melhores notas)?
@@ -184,6 +185,13 @@ O panorama geral é positivo — poucas notas muito baixas. Mas existem exceçõ
 
 **💡 Recomendação:**  
 É bom ficar de olho nos casos com notas muito baixas. Ver o que tá dando errado (atendimento? comida? ambiente?) pode ajudar a fazer ajustes pontuais e melhorar a percepção geral dos clientes.
+
+## 📍 Distribuição das avalições
+
+![Distribuição das avalições](https://raw.githubusercontent.com/adrielnascimento/portifolio/main/projeto-restaurantes/notebooks/imagem/dis_av_restaurantes.png)
+
+---
+![Distribuição das avalições](https://raw.githubusercontent.com/adrielnascimento/portifolio/main/projeto-restaurantes/notebooks/imagem/distribuição_av_restaurantes.png)
 
 ---
 
