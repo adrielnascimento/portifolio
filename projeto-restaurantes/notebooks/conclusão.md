@@ -87,6 +87,14 @@ Responder perguntas estratégicas e gerar recomendações com base em evidência
 
 > A maioria dos estabelecimentos possui avaliações entre **3.2 e 3.8**, indicando uma média estável.
 
+### 📲 Pedidos online
+- online: 52%
+- não online: 47%
+
+### ☎️ reserva mesa
+- fazem reserva: 89%
+- não fazem: 10%
+
 #### 📝 Mais avaliados
 - **Byg Brewski Brewing Company** – 16.345 avaliações  
 - **Toit** – 14.956 avaliações  
